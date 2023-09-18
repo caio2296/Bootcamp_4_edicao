@@ -1,0 +1,152 @@
+C:\Projetos\BOOTCAMP IBID\bin\BOOTCAMP IBID.dll.config
+C:\Projetos\BOOTCAMP IBID\bin\BOOTCAMP IBID.dll
+C:\Projetos\BOOTCAMP IBID\bin\BOOTCAMP IBID.pdb
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\csc.exe
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\csc.exe.config
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\csc.rsp
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\csi.exe
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\csi.exe.config
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\csi.rsp
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.AppContext.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Console.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.IO.Compression.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.IO.FileSystem.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Net.Http.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Net.Sockets.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.ValueTuple.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Xml.XPath.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\vbc.exe
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\vbc.exe.config
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\vbc.rsp
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\BOOTCAMP IBID\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\BOOTCAMP IBID\bin\Antlr3.Runtime.dll
+C:\Projetos\BOOTCAMP IBID\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projetos\BOOTCAMP IBID\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projetos\BOOTCAMP IBID\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projetos\BOOTCAMP IBID\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projetos\BOOTCAMP IBID\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\BOOTCAMP IBID\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projetos\BOOTCAMP IBID\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projetos\BOOTCAMP IBID\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\BOOTCAMP IBID\bin\Newtonsoft.Json.dll
+C:\Projetos\BOOTCAMP IBID\bin\System.Web.Optimization.dll
+C:\Projetos\BOOTCAMP IBID\bin\WebGrease.dll
+C:\Projetos\BOOTCAMP IBID\bin\System.Web.Optimization.xml
+C:\Projetos\BOOTCAMP IBID\bin\Newtonsoft.Json.xml
+C:\Projetos\BOOTCAMP IBID\bin\Antlr3.Runtime.pdb
+C:\Projetos\BOOTCAMP IBID\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projetos\BOOTCAMP IBID\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\BOOTCAMP IBID\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Projetos\BOOTCAMP IBID\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Projetos\BOOTCAMP IBID\obj\Debug\BOOTCAMP IBID.csproj.AssemblyReference.cache
+C:\Projetos\BOOTCAMP IBID\obj\Debug\BOOTCAMP IBID.csproj.CoreCompileInputs.cache
+C:\Projetos\BOOTCAMP IBID\obj\Debug\BOOTCAMP IBID.csproj.CopyComplete
+C:\Projetos\BOOTCAMP IBID\obj\Debug\BOOTCAMP IBID.dll
+C:\Projetos\BOOTCAMP IBID\obj\Debug\BOOTCAMP IBID.pdb
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\BOOTCAMP IBID.dll.config
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\BOOTCAMP IBID.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\BOOTCAMP IBID.pdb
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\csc.exe
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\csc.exe.config
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\csc.rsp
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\csi.exe
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\csi.exe.config
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\csi.rsp
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.AppContext.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Console.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.IO.Compression.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.IO.FileSystem.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Net.Http.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Net.Sockets.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.ValueTuple.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Xml.XPath.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\vbc.exe
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\vbc.exe.config
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\vbc.rsp
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\Antlr3.Runtime.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\Newtonsoft.Json.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\System.Web.Optimization.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\WebGrease.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\System.Web.Optimization.xml
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\Newtonsoft.Json.xml
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\Antlr3.Runtime.pdb
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\obj\Debug\BOOTCAMP IBID.csproj.AssemblyReference.cache
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\obj\Debug\BOOTCAMP IBID.csproj.CoreCompileInputs.cache
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\obj\Debug\BOOTCAMP IBID.csproj.CopyComplete
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\obj\Debug\BOOTCAMP IBID.dll
+C:\Projetos\Bootcamp_4_edicao\BOOTCAMP IBID\obj\Debug\BOOTCAMP IBID.pdb
